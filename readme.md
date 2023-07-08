@@ -14,10 +14,10 @@
 ## 学习历程
 ### 第一天(2023.07.08)
 
-[CPP语法和思想](https://github.com/aub123/Stronger/tree/main/CPP)  
+[CPP语法和思想](https://github.com/aub123/Stronger/tree/main/CPP/第一天)  
 
 简单看了一下cpp,包括一些和更高级语言不太一致的内容：引用和指针，结构体，重载，泛型，函数指针等
 
-[CUDA](https://github.com/aub123/Stronger/tree/main/CUDA)
+[CUDA](https://github.com/aub123/Stronger/tree/main/CUDA/第一天)
 
 学了一下CUDA的编程模型，以及如何把正常cpp程序代码用gpu核函数调用
