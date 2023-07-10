@@ -4,6 +4,7 @@
   - [学习内容](#学习内容)
   - [学习历程](#学习历程)
     - [第一天(2023.07.08)](#第一天20230708)
+    - [第二天(2023.07.10)](#第二天20230710)
 
 ## 建立目的
 站在一个学计算机的学生的视角上，从零开始掌握一门新领域的过程经验，BE STRONGER, BE GREATER.
@@ -21,3 +22,10 @@
 [CUDA](https://github.com/aub123/Stronger/tree/main/CUDA/第一天)
 
 学了一下CUDA的编程模型，以及如何把正常cpp程序代码用gpu核函数调用
+
+### 第二天(2023.07.10)
+
+看了一下[OPENMP编程](https://github.com/aub123/Stronger/tree/main/CPP/第二天)，打算多联系几天  
+
+今天的[openmp笔记](https://github.com/aub123/Stronger/tree/main/NOTES/OPENMP/第二天.md)
+
