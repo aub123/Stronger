@@ -5,6 +5,8 @@
   - [学习历程](#学习历程)
     - [第一天(2023.07.08)](#第一天20230708)
     - [第二天(2023.07.10)](#第二天20230710)
+    - [第三天(2023.07.28)](#第三天20230728)
+    - [第四天(2023.07.29)](#第四天20230729)
 
 ## 建立目的
 站在一个学计算机的学生的视角上，从零开始掌握一门新领域的过程经验，BE STRONGER, BE GREATER.
@@ -29,3 +31,10 @@
 
 今天的[openmp笔记](https://github.com/aub123/Stronger/tree/main/NOTES/OPENMP/第二天.md)
 
+### 第三天(2023.07.28)
+
+学了一些[makefile](https://github.com/aub123/Stronger/tree/main/NOTES/OPENMP/CPP/第三天)的编写格式、语法
+
+### 第四天(2023.07.29)
+
+NVIDIA夏令营要考试了, 慌的一批，补了补[cuda基础](https://github.com/aub123/Stronger/tree/main/CUDA/第四天)
